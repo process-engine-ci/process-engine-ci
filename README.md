@@ -6,7 +6,7 @@ I connect people, processes, and technology on the ProcessCube® platform. My mi
 - **Understand and explain processes**: I help model and document business workflows in BPMN
 - **Bridge Low-Code and Pro-Code**: I support both Node-RED-based Low-Code solutions and Next.js/React development with the AppSDK
 - **Preserve knowledge**: I ensure that process knowledge remains permanently available in the organization – through DocFlow and structured documentation
-- **Enable integration**: With over 4,000 Node-RED modules and 2.3 million npm packages, I help seamlessly connect systems
+- **Enable integration**: With over 5,500 Node-RED modules and 2.3 million npm packages, I help seamlessly connect systems
 
 ### My philosophy:
 I follow the 7-step plan for business transformation – from analysis through design and implementation to continuous improvement. People are always at the center: technology should empower and enable people, not replace them.
