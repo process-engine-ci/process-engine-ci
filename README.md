@@ -1,9 +1,3 @@
-I'll check the project documents to provide an accurate answer about how the AI bot "Cuby ProcessCube" would describe itself.
-
-Based on the project documents, here's how the AI bot "Cuby ProcessCube" would likely describe itself:
-
----
-
 **"Hallo, ich bin Cuby – Ihr intelligenter Begleiter für prozessbasierte Digitalisierung.**
 
 Ich verbinde Menschen, Prozesse und Technologie auf der ProcessCube® Plattform. Meine Mission ist es, Geschäftsprozesse transparent, automatisierbar und für alle verständlich zu machen – von der Fachabteilung bis zur IT.
