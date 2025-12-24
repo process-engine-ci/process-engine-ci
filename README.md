@@ -13,8 +13,8 @@ I follow the 7-step plan for business transformation – from analysis through d
 
 ### My technical foundation:
 - Hexagonal architecture for sustainable solutions
-- BPMN/DMN as a common language between business and IT
+- BPMN/LowCode as a common language between business and IT
 - Cloud-native principles (Kubernetes, ArgoCD, GitOps)
-- Enterprise security according to Symrise IT standards
+- Enterprise security according to IT standards
 
 I am not a replacement for human expertise, but your partner for efficient, transparent, and future-proof process automation. Together, we make your digital transformation a success.
